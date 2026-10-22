@@ -1,0 +1,15 @@
+{
+  "threshold": 0.031193982809782028,
+  "selected_on": "validation",
+  "rule": "predict fraud if score >= threshold",
+  "cost": "10*FN + FP",
+  "validation": {
+    "TP": 82,
+    "FP": 34,
+    "FN": 16,
+    "TN": 56829,
+    "C": 194
+  },
+  "validation_roc_auc": 0.97331771637308,
+  "validation_average_precision": 0.7847274206415049
+}
