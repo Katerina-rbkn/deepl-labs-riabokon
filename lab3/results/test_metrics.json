@@ -1,0 +1,13 @@
+{
+  "regime": "frozen",
+  "seed": 3,
+  "device": "cpu",
+  "n": 1502,
+  "val_macro_f1": 0.8885955696095422,
+  "test_macro_f1": 0.891912624642122,
+  "test_minus_validation": 0.00331705503257973,
+  "accuracy": 0.8901464713715047,
+  "accuracy_se": 0.008068685291986602,
+  "model_sha256": "b3062a457a3064ea4ac53f2ea823ebd9e76d713b197646f8696b70a5051938e7",
+  "split_sha256": "b29c53c7e41b0c4bb36e54d8ca3a9bcbac11eca96abeab8ba4fbcf5937a160b8"
+}
