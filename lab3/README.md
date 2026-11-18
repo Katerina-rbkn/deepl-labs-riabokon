@@ -305,12 +305,12 @@ $\mathrm{macro\text{-}F1} = 0.345873$.
 
 Використано такі показники:
 
-- $\mathrm{mean}_{\mathrm{frozen}}$ — середній macro-F1 трьох запусків frozen;
-- $\mathrm{mean}_{\mathrm{unfreeze}}$ — середній macro-F1 трьох запусків unfreeze;
-- $\mathrm{range}_{\mathrm{frozen}}$ і $\mathrm{range}_{\mathrm{unfreeze}}$ — розкид відповідного режиму;
-- $R$ — найбільший із двох розкидів;
-- $\Delta_{\mathrm{pre}}$ — різниця між $\mathrm{mean}_{\mathrm{frozen}}$ і результатом scratch;
-- $\Delta_{\mathrm{unf}}$ — різниця між $\mathrm{mean}_{\mathrm{unfreeze}}$ і $\mathrm{mean}_{\mathrm{frozen}}$.
+- $`\mathrm{mean}_{\mathrm{frozen}}`$ — середній macro-F1 трьох запусків frozen;
+- $`\mathrm{mean}_{\mathrm{unfreeze}}`$ — середній macro-F1 трьох запусків unfreeze;
+- $`\mathrm{range}_{\mathrm{frozen}}`$ і $`\mathrm{range}_{\mathrm{unfreeze}}`$ — розкид відповідного режиму;
+- $`R`$ — найбільший із двох розкидів;
+- $`\Delta_{\mathrm{pre}}`$ — різниця між $`\mathrm{mean}_{\mathrm{frozen}}`$ і результатом scratch;
+- $`\Delta_{\mathrm{unf}}`$ — різниця між $`\mathrm{mean}_{\mathrm{unfreeze}}`$ і $`\mathrm{mean}_{\mathrm{frozen}}`$.
 
 Формули розрахунку:
 
